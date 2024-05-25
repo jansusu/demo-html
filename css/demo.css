@@ -1,0 +1,19 @@
+.dress img{
+    width: 10%;
+    float: left;  
+}
+.dress ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 20px;    
+}
+
+
+.dress ul{
+    padding-top: 6px;
+}
+.dress ul button{
+    float: right;
+    padding: 5px;
+    width: 10%;
+}

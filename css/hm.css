@@ -1,0 +1,98 @@
+.costly img{
+    width: 10%;  
+    float: left;
+    margin-top: 20px;
+}
+.costly ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 30px;
+    
+}
+.costly ul{
+    padding-top: 30px;
+}
+.costly button{
+    float: right;
+    
+}
+sbi{
+    width: 100%;
+}
+.hot img{
+    width: 100%;
+}
+.summer img{
+    width: 100%;
+}
+.spl{
+    width: 97%;
+    display: flex;
+}
+.spl1{
+    width: 25%;
+
+}
+.spl1 image{
+    width: 90%;
+    height: 400px;
+}
+.everyday img{
+    width: 100%;
+}
+.discover img{
+    width: 100%;
+}
+.gold img{
+    width: 100%;
+}
+.brand{
+    width: 100%;
+    display: flex;
+}
+.brand1{
+    width: 25%;
+}
+.brand1 img{
+    width: 100%;
+}
+.store{
+    width: 100%;
+    display: flex;
+}
+.store1{
+    width: 25%;
+}
+.store1 img{
+    width: 100%;
+}
+.access{
+    width: 100%;
+    display: flex;
+}
+.access1{
+    width: 25%;
+}
+.access1 img{
+    width: 100%;
+}
+.care img{
+    width: 100%;
+}
+.row img{
+    width: 25%;
+   
+}
+.footer{
+    background-color: rgb(24, 18, 34);
+    color: white;
+    padding-top: 30px;
+    font-size: 14px;
+}
+.footer1{
+    padding: 10px;
+}
+.pay{
+    margin: 20px;
+}
+

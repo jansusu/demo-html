@@ -1,0 +1,100 @@
+.shark img{
+    width: 100%;
+    height: 300px;
+    border-radius: 200px;
+}
+
+.frm button{
+    margin-top: 20px;
+    padding: 20px;
+    width: 30%;
+}
+
+
+.hero h6{
+    float: right;
+}
+
+.hero{
+    color: white ;
+}
+
+.hero a{
+    color: white;
+}
+
+.shark ul li{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+
+/* .head {
+    padding-right: 40px;
+    margin: 40px;
+}
+
+.row {
+    padding-right: 40px;
+
+}
+
+.head th{
+    padding-right: 40px;
+}
+
+.row td{
+    padding-right: 40px;
+    margin: 40px;
+} */
+
+.head {
+      text-align: center;
+      
+      font-style: italic;
+      border: "2";
+      height: 100px;
+      width: 70px;
+      
+}
+.head {
+    
+    font-size: x-large;
+    font-style: italic;
+}
+
+.row   tr td{
+    text-align: center;
+}
+.heading {
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    background-repeat: no-repeat;
+}
+.para p{
+    font-size: 25px;
+    background-color: aquamarine;
+}
+.heading-image{
+    background-size: cover;
+    height: 1000px;
+}
+.form h1 {
+padding: 10px;
+}
+table {
+    width: 70%;
+    margin-bottom: 10px;
+    border:1px solid black;
+    background-color: azure;
+    font-size: 30px;
+    
+}
+tbody {
+    text-align: center;
+    font-size: 25px;
+}
+.form {
+    line-height: 0.8;
+}
